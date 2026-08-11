@@ -1,5 +1,4 @@
-import React, { useEffect } from 'react';
-import { Link } from 'react-router-dom';
+
 import { useAuth } from '../context/AuthContext';
 import {
   User as UserIcon,
